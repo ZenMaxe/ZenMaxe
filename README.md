@@ -21,6 +21,10 @@
 [![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=flat-square&logo=PHP)](https://PHP.net)
 
 
+**Langs I'm Learning in University :**
+
+[![C++](https://img.shields.io/badge/-C++-%232c3e50?style=flat-square&logo=c++)](https://www.cplusplus.com/)
+[![C](https://img.shields.io/badge/-C-%232c3e50?style=flat-square&logo=c)](https://www.cprogramming.com/)
 
 **Stuff I Usually Use:**
 
