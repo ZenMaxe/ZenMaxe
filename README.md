@@ -20,7 +20,7 @@
 **Langs I'm Learning :**
 
 [![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=flat-square&logo=PHP)](https://PHP.net)
-
+[![PowerShell](https://img.shields.io/badge/-powershell-%232c3e50?style=flat-square&logo=powershell)](https://docs.microsoft.com/en-us/powershell/)
 
 **Langs I'm Learning in University :**
 
