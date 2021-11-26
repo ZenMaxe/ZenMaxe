@@ -19,7 +19,7 @@
 
 **Langs I'm Learning :**
 
-[![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=flat-square&logo=PHP)](https://PHP.net)
+[![C#](https://img.shields.io/badge/-C#-%232c3e50?style=flat-square&logo=C#)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![PowerShell](https://img.shields.io/badge/-PowerShell-%232c3e50?style=flat-square&logo=PowerShell)](https://docs.microsoft.com/en-us/powershell/)
 
 **Langs I'm Learning in University :**
