@@ -19,7 +19,7 @@
 
 **Langs I'm Learning :**
 
-[![C#](https://img.shields.io/badge/-C#-%232c3e50?style=flat-square&logo=C#)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![C#](<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![PowerShell](https://img.shields.io/badge/-PowerShell-%232c3e50?style=flat-square&logo=PowerShell)](https://docs.microsoft.com/en-us/powershell/)
 
 **Langs I'm Learning in University :**
