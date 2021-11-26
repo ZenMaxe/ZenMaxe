@@ -14,6 +14,7 @@
 
 [![Python](https://img.shields.io/badge/-Python-%232c3e50?style=flat-square&logo=python)](https://python.org)
 [![HTML](https://img.shields.io/badge/-HTML-%232c3e50?style=flat-square&logo=html5)](https://html.com)
+[![Django](https://img.shields.io/badge/-Django-%232c3e50?style=flat-square&logo=django)](https://www.djangoproject.com/)
 
 
 **Langs I'm Learning :**
