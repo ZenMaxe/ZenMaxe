@@ -4,7 +4,7 @@
 - **💪 Linux SuperUser**
 - **🔥 [Pyrogram](https://pyrogram.org) Lover 💖**
 - **I mostly put my focus on [Python](https://python.org) cuz why not?**
-- **My Everyday usage is based on: `.py` `.html` `.cs` **
+- **My Everyday usage is based on: `.py` `.html` `.cs`**
 - **My [Gists](https://gist.github.com/ZenMaxe), is Empty :)**
 - **Enjoy~**
 
