@@ -32,6 +32,7 @@
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com)
 [![VSCode](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 [![Vim](https://img.shields.io/badge/-Vim-darkgreen?style=flat-square&logo=vim)](https://vim.org)
+[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-%23F05032?style=flat-square&logo=visual-studio&logoColor=%23ffffff)](https://visualstudio.microsoft.com/)
 
 **If You're Willing To Get In Touch With Me Or You Just Want To Say Hello, Here You Go:**
 
