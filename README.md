@@ -1,6 +1,7 @@
 
 ###### <span style="text-align: center;">[![Profile views](https://profile-counter.glitch.me/ZenMaxe/count.svg)](https://github.com/ZenMaxe)</span>
 
+- ** Im 01001000 01101111 01110011 01110011 01100101 01101001 01101110 00100000 01010011 01100001 01101110 01101010 01100001 01100010 01101001 01100001 01101110**
 - **💪 Linux SuperUser**
 - **🔥 [TensorFlow](https://www.tensorflow.org/) & [PyTorch](https://pytorch.org/) Lover 💖**
 - **I mostly put my focus on [Python](https://python.org) cuz why not?**
