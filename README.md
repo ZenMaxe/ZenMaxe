@@ -5,7 +5,7 @@
 - **💪 Linux SuperUser**
 - **🔥 [TensorFlow](https://www.tensorflow.org/) & [PyTorch](https://pytorch.org/) Lover 💖**
 - **I mostly put my focus on [Python](https://python.org) cuz why not?**
-- **My Everyday usage is based on: `.py` `.html` `.cs` `.css`**
+- **My Everyday usage is based on: `.py` `.html` `.css`**
 - **My [Gists](https://gist.github.com/ZenMaxe), is Empty :)**
 - **Enjoy~**
 
@@ -20,8 +20,7 @@
 
 **Langs I'm Learning :**
 
-[![C#](https://img.shields.io/badge/c%23%20-%232c3e50.svg?&style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![PowerShell](https://img.shields.io/badge/-PowerShell-%232c3e50?style=flat-square&logo=PowerShell)](https://docs.microsoft.com/en-us/powershell/)
+  Nothing ...
 
 **Langs I'm Learning in University :**
 
