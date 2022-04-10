@@ -4,7 +4,7 @@
 - **01001000 01101111 01110011 01110011 01100101 01101001 01101110 00100000 01010011 01100001 01101110 01101010 01100001 01100010 01101001 01100001 01101110**
 - **💪 Linux SuperUser**
 - **🔥 [TensorFlow](https://www.tensorflow.org/) & [PyTorch](https://pytorch.org/) Lover 💖**
-- **I mostly put my focus on [Python](https://python.org) cuz why not?**
+- **I mostly put my focus on [Python](https://python.org) & C++ cuz why not?**
 - **My Everyday usage is based on: `.py` `.html` `.css`**
 - **My [Gists](https://gist.github.com/ZenMaxe), is Empty :)**
 - **Enjoy~**
@@ -20,7 +20,7 @@
 
 **Langs I'm Learning :**
 
-  Nothing ...
+  [![C++](https://img.shields.io/badge/-C++-%232c3e50?style=flat-square&logo=c++)](https://www.cplusplus.com/) ( I Need Powwerrrr :) )
 
 **Langs I'm Learning in University :**
 
