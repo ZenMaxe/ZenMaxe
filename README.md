@@ -5,7 +5,7 @@
 - **💪 Linux SuperUser**
 - **🔥 [TensorFlow](https://www.tensorflow.org/) & [PyTorch](https://pytorch.org/) Lover 💖**
 - **I mostly put my focus on [Python](https://python.org) & C++ cuz why not?**
-- **My Everyday usage is based on: `.py` `.html` `.css`**
+- **My Everyday usage is based on: `.py` `.html` `.css` `.cpp` **
 - **My [Gists](https://gist.github.com/ZenMaxe), is Empty :)**
 - **Enjoy~**
 
