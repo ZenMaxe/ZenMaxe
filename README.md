@@ -3,7 +3,7 @@
 
 - **01001000 01101111 01110011 01110011 01100101 01101001 01101110 00100000 01010011 01100001 01101110 01101010 01100001 01100010 01101001 01100001 01101110**
 - **💪 Linux SuperUser**
-- **🔥 [TensorFlow](https://www.tensorflow.org/) & [PyTorch](https://pytorch.org/) Lover 💖**
+- **🔥 [Django](https://www.djangoproject.com/) & [FastApi](https://fastapi.tiangolo.com/) Lover 💖**
 - **I mostly put my focus on [Python](https://python.org) & C++ cuz why not?**
 - **My Everyday usage is based on: `.py` `.cpp` `.h`**
 - **My [Gists](https://gist.github.com/ZenMaxe), is Empty :)**
