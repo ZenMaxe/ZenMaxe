@@ -5,7 +5,7 @@
 - **💪 Linux SuperUser**
 - **🔥 [Django](https://www.djangoproject.com/) & [FastApi](https://fastapi.tiangolo.com/) Lover 💖**
 - **I mostly put my focus on [Python](https://python.org) & C++ cuz why not?**
-- **My Everyday usage is based on: `.py` `.cpp` `.h`**
+- **My Everyday usage is based on: `.py` `.cpp` `.h` `.cs` **
 - **My [Gists](https://gist.github.com/ZenMaxe), is Empty :)**
 - **Working On [GeckoDriver Downloader](https://github.com/ZenMaxe/GeckoDriver-Downlaoder)**
 - **Enjoy~**
