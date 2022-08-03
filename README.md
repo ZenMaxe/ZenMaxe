@@ -14,9 +14,10 @@
 
 **Langs I Know :**
 
-[![Python](https://img.shields.io/badge/-Python-%232c3e50?style=flat-square&logo=python)](https://python.org)
-[![HTML](https://img.shields.io/badge/-HTML-%232c3e50?style=flat-square&logo=html5)](https://html.com)
-[![Django](https://img.shields.io/badge/-Django-%232c3e50?style=flat-square&logo=django)](https://www.djangoproject.com/)
+[![Python](https://img.shields.io/badge/-Python-%232c3e50?style=for-the-badge&logo=python)](https://python.org)
+[![HTML](https://img.shields.io/badge/-HTML-%232c3e50?style=for-the-badge&logo=html5)](https://html.com)
+[![Django](https://img.shields.io/badge/-Django-%232c3e50?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
+[![C#](https://img.shields.io/badge/c%23-%232c3e50.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 
 **Langs I'm Learning :**
