@@ -11,6 +11,11 @@
 
 ## ℹ️ **About me**:
 
+**My Activities on The Sites :**
+
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-us/users/wilsonweber-6167/)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sanjabian_ho)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/ZenMaxe/)
 
 **Framework/Tools/Libraries I Know :**
 
@@ -51,6 +56,9 @@
 ![TG](https://img.shields.io/badge/-WilsonWeber-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/WilsonWeber)
 ![Mail](https://img.shields.io/badge/-Sanjabian.Ho@Gmail.com-000fff?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanjabian.ho@gmail.com)
 ![Twitter](https://img.shields.io/badge/-ZenMaxe-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/zenmaxe)
+[![Steam](https://img.shields.io/badge/-ZenMaxe2-%23000000.svg?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/ZenMaxe2)
+[![PlayStation Network](https://img.shields.io/badge/-ZenMaxe-%230070D1.svg?style=flat-square&logo=Playstation&logoColor=white)](https://psnprofiles.com/ZenMaxe)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-sanjabian-472a8b226/)
 
 [![Discord](https://discord.c99.nl/widget/theme-2/536501937084956692.png)](https://discord.com)
 
