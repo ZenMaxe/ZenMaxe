@@ -1,7 +1,6 @@
 
 ###### <span style="text-align: center;">[![Profile views](https://profile-counter.glitch.me/ZenMaxe/count.svg)](https://github.com/ZenMaxe)</span>
 
-- **01001000 01101111 01110011 01110011 01100101 01101001 01101110 00100000 01010011 01100001 01101110 01101010 01100001 01100010 01101001 01100001 01101110**
 - **💪 Linux SuperUser**
 - **🔥 [Django](https://www.djangoproject.com/) & [FastApi](https://fastapi.tiangolo.com/) Lover 💖**
 - **I mostly put my focus on [Python](https://python.org) & C++ cuz why not?**
@@ -12,40 +11,55 @@
 
 ## ℹ️ **About me**:
 
+
+**Framework/Tools/Libraries I Know :**
+
+[![Django](https://img.shields.io/badge/-Django-%232c3e50?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
+[![.Net](https://img.shields.io/badge/.NET-%232c3e50?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/)
+[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.2.0/)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+
+**FrameWork I Want Learn/Use :**
+
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
 **Langs I Know :**
 
 [![Python](https://img.shields.io/badge/-Python-%232c3e50?style=for-the-badge&logo=python)](https://python.org)
 [![HTML](https://img.shields.io/badge/-HTML-%232c3e50?style=for-the-badge&logo=html5)](https://html.com)
-[![Django](https://img.shields.io/badge/-Django-%232c3e50?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
 [![C#](https://img.shields.io/badge/c%23-%232c3e50.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 
 **Langs I'm Learning :**
 
-  [![C++](https://img.shields.io/badge/-C++-%232c3e50?style=flat-square&logo=c++)](https://www.cplusplus.com/) ( I Need Powwerrrr :) )
+  [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
 
-**Langs I'm Learning in University :**
-
-[![C++](https://img.shields.io/badge/-C++-%232c3e50?style=flat-square&logo=c++)](https://www.cplusplus.com/)
-[![C](https://img.shields.io/badge/-C-%232c3e50?style=flat-square&logo=c)](https://www.cprogramming.com/)
 
 **Stuff I Usually Use:**
 
-[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com)
-[![VSCode](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
-[![Vim](https://img.shields.io/badge/-Vim-darkgreen?style=flat-square&logo=vim)](https://vim.org)
-[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-%23007ACC?style=flat-square&logo=visual-studio&logoColor=%23ffffff)](https://visualstudio.microsoft.com/)
+[![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)](https://git-scm.com)
+[![VSCode](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![Vim](https://img.shields.io/badge/-Vim-darkgreen?style=for-the-badge&logo=vim)](https://vim.org)
+[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-%23007ACC?style=for-the-badge&logo=visual-studio&logoColor=%23ffffff)](https://visualstudio.microsoft.com/)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 **If You're Willing To Get In Touch With Me Or You Just Want To Say Hello, Here You Go:**
 
 ![TG](https://img.shields.io/badge/-WilsonWeber-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/WilsonWeber)
 ![Mail](https://img.shields.io/badge/-Sanjabian.Ho@Gmail.com-000fff?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanjabian.ho@gmail.com)
+![Twitter](https://img.shields.io/badge/-ZenMaxe-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/zenmaxe)
 
 [![Discord](https://discord.c99.nl/widget/theme-2/536501937084956692.png)](https://discord.com)
 
+
 ##  🐙 **Profile Stats**
 
-[![stats](https://github-readme-stats.vercel.app/api?username=ZenMaxe&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/ZenMaxe)
+[![stats](https://github-readme-stats.vercel.app/api?username=ZenMaxe&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/ZenMaxe)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenMaxe&layout=compact)](https://github.com/ZenMaxe/github-readme-stats)
+
 
 ![followers](https://img.shields.io/github/followers/ZenMaxe?color=pink&label=Followers&style=for-the-badge)
 ![stars](https://img.shields.io/github/stars/ZenMaxe?affiliations=OWNER&color=pink&style=for-the-badge)
