@@ -3,8 +3,8 @@
 
 - **💪 Linux SuperUser**
 - **🔥 [Django](https://www.djangoproject.com/) & [FastApi](https://fastapi.tiangolo.com/) Lover 💖**
-- **I mostly put my focus on [Python](https://python.org) & C++ cuz why not?**
-- **My Everyday usage is based on: `.py` `.cpp` `.h` `.cs`**
+- **I mostly put my focus on [Python](https://python.org) & Rust cuz why not?**
+- **My Everyday usage is based on: `.py` `.rs` `.cs`**
 - **My [Gists](https://gist.github.com/ZenMaxe), is Empty :)**
 - **Working On [GeckoDriver Downloader](https://github.com/ZenMaxe/GeckoDriver-Downlaoder)**
 - **Enjoy~**
@@ -38,7 +38,7 @@
 
 **Langs I'm Learning :**
 
-  [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
+  [![Rust](https://img.shields.io/badge/rust-%2300599C.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 
 **Stuff I Usually Use:**
