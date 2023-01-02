@@ -1,12 +1,12 @@
 
 ###### <span style="text-align: center;">[![Profile views](https://profile-counter.glitch.me/ZenMaxe/count.svg)](https://github.com/ZenMaxe)</span>
 
-- **💪 Linux SuperUser**
-- **🔥 [Django](https://www.djangoproject.com/) & [FastApi](https://fastapi.tiangolo.com/) Lover 💖**
-- **I mostly put my focus on [Python](https://python.org) & Rust cuz why not?**
+- **💪 Linux SuperUser 💪**
+- **🔥 Python Developer With 3+ Years of Experience , C# Developer with 1+ Years Of Experience 💖**
+- **I mostly put my focus on [C#](https://dotnet.microsoft.com/en-us/) & Rust cuz why not?**
 - **My Everyday usage is based on: `.py` `.rs` `.cs`**
 - **My [Gists](https://gist.github.com/ZenMaxe), is Empty :)**
-- **Working On [GeckoDriver Downloader](https://github.com/ZenMaxe/GeckoDriver-Downlaoder)**
+- **Don't See my Old Respos ( Dirty Codes )**
 - **Enjoy~**
 
 ## ℹ️ **About me**:
