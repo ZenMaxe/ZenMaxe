@@ -6,7 +6,7 @@
 - **I mostly put my focus on [C#](https://dotnet.microsoft.com/en-us/) cuz why not?**
 - **My Everyday usage is based on: `.py` `.rs` `.cs`**
 - **My [Gists](https://gist.github.com/ZenMaxe), is Empty :)**
-- **Don't See my Old Respos ( Dirty Codes )**
+- **Don't See my Old Repos ( Dirty Codes )**
 - **Enjoy~**
 
 ## ℹ️ **About me**:
