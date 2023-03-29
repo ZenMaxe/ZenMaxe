@@ -4,9 +4,10 @@
 - **💪 Linux SuperUser 💪**
 - **🔥 Python Developer With 3+ Years of Experience , C# Developer with 1+ Years Of Experience 💖**
 - **I mostly put my focus on [C#](https://dotnet.microsoft.com/en-us/) cuz why not?**
-- **My Everyday usage is based on: `.py` `.rs` `.cs`**
+- **My Everyday usage is based on: `.py` `.cpp` `.cs`**
+- **Rust Fan But Working With C++ For my Job.**
 - **My [Gists](https://gist.github.com/ZenMaxe), is Empty :)**
-- **Don't See my Old Repos ( Dirty Codes )**
+- **Don't Check my Old Repos, They're so Dirty**
 - **Enjoy~**
 
 ## ℹ️ **About me**:
@@ -40,7 +41,7 @@
 **Langs I'm Learning :**
 
   [![Rust](https://img.shields.io/badge/rust-%2300599C.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-
+  [![C++](https://img.shields.io/badge/-c++-%2300599C.svg??style=for-the-badge&logo=C++&logoColor=whitel)](https://cplusplus.com/)
 
 **Stuff I Usually Use:**
 
