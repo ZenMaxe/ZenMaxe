@@ -41,7 +41,7 @@
 **Langs I'm Learning :**
 
   [![Rust](https://img.shields.io/badge/rust-%2300599C.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-  [![C++](https://img.shields.io/badge/-c++-%2300599C.svg??style=for-the-badge&logo=C++&logoColor=whitel)](https://cplusplus.com/)
+  [![C++](https://img.shields.io/badge/C++-%2300599C.svg??style=for-the-badge&logo=cplusplus&logoColor=whitel)](https://cplusplus.com/)
 
 **Stuff I Usually Use:**
 
