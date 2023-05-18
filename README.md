@@ -67,8 +67,7 @@
 
 ##  🐙 **Profile Stats**
 
-[![stats](https://github-readme-stats.vercel.app/api?username=ZenMaxe&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/ZenMaxe)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenMaxe&layout=compact)](https://github.com/ZenMaxe/github-readme-stats)
+Editing ...
 
 
 ![followers](https://img.shields.io/github/followers/ZenMaxe?color=pink&label=Followers&style=for-the-badge)
