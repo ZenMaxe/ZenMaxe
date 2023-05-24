@@ -38,7 +38,7 @@
 [![C#](https://img.shields.io/badge/c%23-%232c3e50.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 
-**Langs I'm Learning :**
+**Langs I'm Learning/Working (Little Experience) :**
 
   [![Rust](https://img.shields.io/badge/rust-%2300599C.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
   [![C++](https://img.shields.io/badge/C++-%2300599C.svg??style=for-the-badge&logo=cplusplus&logoColor=whitel)](https://cplusplus.com/)
