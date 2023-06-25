@@ -60,7 +60,7 @@
 ![Twitter](https://img.shields.io/badge/-ZenMaxe-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/zenmaxe)
 [![Steam](https://img.shields.io/badge/-ZenMaxe2-%23000000.svg?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/ZenMaxe2)
 [![PlayStation Network](https://img.shields.io/badge/-ZenMaxe-%230070D1.svg?style=flat-square&logo=Playstation&logoColor=white)](https://psnprofiles.com/ZenMaxe)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-sanjabian-472a8b226/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Sanjabian-Hossein111/)
 
 [![Discord](https://discord.c99.nl/widget/theme-2/536501937084956692.png)](https://discord.com)
 
