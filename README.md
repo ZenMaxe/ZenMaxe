@@ -2,7 +2,7 @@
 ###### <span style="text-align: center;">[![Profile views](https://profile-counter.glitch.me/ZenMaxe/count.svg)](https://github.com/ZenMaxe)</span>
 
 - **💪 Linux SuperUser 💪**
-- **🔥 Python Developer With 3+ Years of Experience , C# Developer with 1+ Years Of Experience 💖**
+- **🔥 Python Developer With 4+ Years of Experience , C# Developer with 2+ Years Of Experience 💖**
 - **I mostly put my focus on [C#](https://dotnet.microsoft.com/en-us/) cuz why not?**
 - **My Everyday usage is based on: `.py` `.cs`**
 - **Rust Fan But Working With C++ For my Job.**
