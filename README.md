@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Blazor**
 
-- 📝 I regularly write articles on [LinkedIn](LinkedIn)
+- 📝 I regularly write articles on [[LinkedIn](https://linkedin.com/in/sanjabian-hossein)]
 
 - 💬 Ask me about **c#, asp.net, xml**
 
