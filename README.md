@@ -1,74 +1,23 @@
+<h1 align="center">Hi 👋, I'm Hossein Sanjabian</h1>
+<h3 align="center">A Dotnet developer from Iran</h3>
 
-###### <span style="text-align: center;">[![Profile views](https://profile-counter.glitch.me/ZenMaxe/count.svg)](https://github.com/ZenMaxe)</span>
+- 🔭 I’m currently working on **Company Projects**
 
-- **💪 Linux SuperUser 💪**
-- **🔥 Python Developer With 4+ Years of Experience , C# Developer with 2+ Years Of Experience 💖**
-- **I mostly put my focus on [C#](https://dotnet.microsoft.com/en-us/) cuz why not?**
-- **My Everyday usage is based on: `.py` `.cs`**
-- **Rust Fan But Working With C++ For my Job.**
-- **My [Gists](https://gist.github.com/ZenMaxe), is Empty :)**
-- **Don't Check my Old Repos, They're so Dirty**
-- **Enjoy~**
+- 🌱 I’m currently learning **Blazor**
 
-## ℹ️ **About me**:
+- 📝 I regularly write articles on [LinkedIn](LinkedIn)
 
-**My Activities on The Sites :**
+- 💬 Ask me about **c#, asp.net, xml**
 
-[![Exercism](https://s24.picofile.com/file/8454324842/5624255_25.png)](https://exercism.org/profiles/ZenMaxe)
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-us/users/ZenMaxe/)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sanjabian_ho)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/ZenMaxe/)
+- 📫 How to reach me **sanjabian.ho@gmail.com**
 
-**Framework/Tools/Libraries I Know :**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/zenmaxe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zenmaxe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sanjabian-hossein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjabian-hossein" height="30" width="40" /></a>
+</p>
 
-[![Django](https://img.shields.io/badge/-Django-%232c3e50?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
-[![.Net](https://img.shields.io/badge/.NET-%232c3e50?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/)
-[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.2.0/)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-**FrameWork I Want Learn/Use :**
-
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-**Langs I Know :**
-
-[![Python](https://img.shields.io/badge/-Python-%232c3e50?style=for-the-badge&logo=python)](https://python.org)
-[![C#](https://img.shields.io/badge/c%23-%232c3e50.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-
-
-**Langs I'm Learning/Working (Little Experience) :**
-
-  [![Rust](https://img.shields.io/badge/rust-%2300599C.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-  [![C++](https://img.shields.io/badge/C++-%2300599C.svg??style=for-the-badge&logo=cplusplus&logoColor=whitel)](https://cplusplus.com/)
-
-**Stuff I Usually Use:**
-
-[![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)](https://git-scm.com)
-[![VSCode](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
-[![Vim](https://img.shields.io/badge/-Vim-darkgreen?style=for-the-badge&logo=vim)](https://vim.org)
-[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-%23007ACC?style=for-the-badge&logo=visual-studio&logoColor=%23ffffff)](https://visualstudio.microsoft.com/)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
-**If You're Willing To Get In Touch With Me Or You Just Want To Say Hello, Here You Go:**
-
-![TG](https://img.shields.io/badge/-WilsonWeber-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/WilsonWeber)
-![Mail](https://img.shields.io/badge/-Sanjabian.Ho@Gmail.com-000fff?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanjabian.ho@gmail.com)
-![Twitter](https://img.shields.io/badge/-ZenMaxe-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/zenmaxe)
-[![Steam](https://img.shields.io/badge/-ZenMaxe2-%23000000.svg?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/ZenMaxe2)
-[![PlayStation Network](https://img.shields.io/badge/-ZenMaxe-%230070D1.svg?style=flat-square&logo=Playstation&logoColor=white)](https://psnprofiles.com/ZenMaxe)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Sanjabian-Hossein111/)
-
-[![Discord](https://discord.c99.nl/widget/theme-2/536501937084956692.png)](https://discord.com)
-
-
-##  🐙 **Profile Stats**
-
-Editing ...
-
-
-![followers](https://img.shields.io/github/followers/ZenMaxe?color=pink&label=Followers&style=for-the-badge)
-![stars](https://img.shields.io/github/stars/ZenMaxe?affiliations=OWNER&color=pink&style=for-the-badge)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zenmaxe&show_icons=true&locale=en" alt="zenmaxe" /></p>
